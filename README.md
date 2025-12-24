@@ -63,7 +63,7 @@
 
 <p>
   🌐 <strong>Portfolio:</strong><br/>
-  <a [href="https://portfolio-jose-rodriguez.vercel.app/](https://jose-r-portfolio.vercel.app/)" target="_blank">
+  <a href="https://jose-r-portfolio.vercel.app/" target="_blank">
     Portfolio
   </a>
 </p>
