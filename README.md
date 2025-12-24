@@ -52,10 +52,26 @@
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
+
 <p>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  📧 <strong>Email:</strong><br/>
+  <a href="mailto:jofrodriguezsu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  🌐 <strong>Portfolio:</strong><br/>
+  <a href="https://portfolio-jose-rodriguez.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  💼 <strong>LinkedIn:</strong><br/>
+  <a href="https://www.linkedin.com/in/jose-fabian-rodr%C3%ADguez-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
