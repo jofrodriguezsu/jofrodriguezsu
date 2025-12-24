@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">Backend Developer | Mechanical Engineer</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
