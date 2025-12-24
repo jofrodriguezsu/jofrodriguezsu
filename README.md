@@ -74,7 +74,3 @@
     Linkedin
   </a>
 </p>
-
----
-
-⭐ *Always learning. Always building.*
