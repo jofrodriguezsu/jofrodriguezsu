@@ -1,63 +1,77 @@
-# Hi there 👋 I'm Jose
+<h1 align="center">Hi 👋, I'm Jose</h1>
+<h3 align="center">Backend Developer</h3>
 
-## Backend Developer | Node.js & API Engineering
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-I'm a **Backend Developer** with a solid foundation in **Node.js**, **Express**, and modern backend technologies.  
-My engineering background helps me approach problems with a **structured, analytical, and solution-oriented mindset**.
+---
 
-I focus on building **reliable REST APIs**, organizing **scalable server-side logic**, and working with **database-driven systems**.  
-I enjoy tackling new challenges and I’m committed to delivering **clean, efficient, and high-quality solutions**.
+## 🧠 About Me
+
+🔹 Backend Developer with a strong foundation in **Node.js**, **Express**, and modern backend technologies  
+🔹 Engineering background with a **structured, analytical, and solution-oriented mindset**  
+🔹 Focused on building **reliable REST APIs** and **database-driven systems**  
+🔹 Passionate about clean code, scalability, and continuous learning  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- **Node.js**
-- **Express**
-- **JavaScript (ES6+)**
-- **TypeScript**
+### 🚀 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-### Databases
-- **MongoDB**
-- **MySQL**
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### DevOps & Tools
-- **Docker**
-- **Linux**
-- **Git**
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-### Frontend Basics
-- **HTML**
-- **CSS**
-
----
-
-## 💼 Core Skills
-
-- REST API Development  
-- Backend Architecture & Server-side Logic  
-- Database Design & Integration  
-- Containerization with Docker  
-- Linux-based Development Environments  
-- Version Control with Git  
+### 🎨 Frontend Basics
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 What I’m Focused On
+## 💼 What I Do
 
-- Building scalable and maintainable backend systems  
-- Improving performance and API reliability  
-- Writing clean, readable, and well-structured code  
-- Learning best practices in backend architecture  
-
----
-
-## 📫 Let’s Connect
-
-- GitHub: **[@yourusername](https://github.com/yourusername)**  
-- LinkedIn: *(optional – add if you want)*  
+✔️ Design and build RESTful APIs  
+✔️ Structure scalable backend architectures  
+✔️ Work with relational and NoSQL databases  
+✔️ Containerize applications with Docker  
+✔️ Develop in Linux-based environments  
 
 ---
 
-⭐ *Always learning, always building.*
+## 🚀 Current Focus
+
+- Writing clean, maintainable backend code  
+- Improving API performance and reliability  
+- Applying backend best practices and patterns  
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Always learning. Always building.*
